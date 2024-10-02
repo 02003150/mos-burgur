@@ -1,0 +1,21 @@
+body{
+    background-image:url(burgur3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+button1{
+    margin: 4%;
+    background-color: rgb(229, 81, 18);
+    padding: 2%;
+    border-radius: 6%;
+}
+
+.home{
+    background-color: rgba(203, 141, 26, 0.714);
+    margin: 16%;
+    margin-top: 3%;
+    padding: 4%;
+    padding-bottom: 16%;
+    border-radius: 10%;
+}
